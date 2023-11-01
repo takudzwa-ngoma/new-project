@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="container">
      <Nevbar/>
-      <div className="body">body</div>
+      <div className="body">bodydgdgdgdgdgd</div>
       <div className="footer">footer</div>
     </div>
     
