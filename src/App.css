@@ -1,0 +1,32 @@
+*{font-family: 'Inter', sans-serif;}
+.container{
+  background-color: beige;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.Nevbar{
+    background-color: whitesmoke;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .body{ 
+    background-color: rgb(139, 190, 206);
+    flex:1;
+  }
+  .footer{
+    background-color: brown;
+  }
+  .links{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+  }
+  .linkItem{
+    margin-left: 20px;
+  }
